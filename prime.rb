@@ -1,12 +1,11 @@
 # Add  code here!
 def prime?(integer) do
   
-  prime == true
   counter = 0 
   
-  while (prime && counter < integer) do
+  while (counter < integer) do
     
-    if(integer/counter )
+    return false if (integer%counter)
     
   end
   
