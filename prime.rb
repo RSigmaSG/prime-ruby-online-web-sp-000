@@ -5,7 +5,7 @@ def prime?(integer) do
   
   while (counter < integer) do
     
-    return false if (integer%counter)
+    return false if (integer%counter == 0)
     
   end
   
