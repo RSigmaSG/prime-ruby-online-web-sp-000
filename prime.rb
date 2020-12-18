@@ -1,5 +1,5 @@
 # Add  code here!
-def prime?(integer) do
+def prime?(integer) 
   
   counter = 0 
   
