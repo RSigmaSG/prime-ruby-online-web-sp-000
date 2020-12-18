@@ -1,5 +1,5 @@
 # Add  code here!
-def prime? do
+def prime?(integer) do
   
   
   
