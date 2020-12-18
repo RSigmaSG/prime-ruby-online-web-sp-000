@@ -9,4 +9,6 @@ def prime?(integer) do
     
   end
   
+  return true
+  
 end
